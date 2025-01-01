@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-newsowl/static/css/main.30e30c70.css",
+    "main.js": "/react-newsowl/static/js/main.ce3d8c84.js",
+    "static/js/488.d01864fa.chunk.js": "/react-newsowl/static/js/488.d01864fa.chunk.js",
+    "static/media/loading.gif": "/react-newsowl/static/media/loading.e8adefe0cf0ccec4132a.gif",
+    "index.html": "/react-newsowl/index.html",
+    "main.30e30c70.css.map": "/react-newsowl/static/css/main.30e30c70.css.map",
+    "main.ce3d8c84.js.map": "/react-newsowl/static/js/main.ce3d8c84.js.map",
+    "488.d01864fa.chunk.js.map": "/react-newsowl/static/js/488.d01864fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30e30c70.css",
+    "static/js/main.ce3d8c84.js"
+  ]
+}

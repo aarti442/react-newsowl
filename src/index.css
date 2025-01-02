@@ -54,10 +54,7 @@ h6.card-title {
   color: #df834d !important;
 }
 .loading {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  
+text-align: center;
   z-index: 9999;
-
+  padding: 10px 0;
 }

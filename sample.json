@@ -1,266 +1,40 @@
 {
-    "status": "ok",
-    "totalResults": 34,
-    "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Frank Schwab",
-            "title": "Lions-49ers: Detroit doesn't rest its starters in 40-34 victory vs. San Francisco - Yahoo Sports",
-            "description": "The Lions' offense was good and a defense that has been battered by injuries had a hard time slowing the San Francisco 49ers down, though it came up with a...",
-            "url": "https://sports.yahoo.com/live/lions-49ers-detroit-doesnt-rest-its-starters-in-40-34-victory-vs-san-francisco-235550588.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oaGRF.07deHc5zsVeEBKPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/7a7ac030-c72f-11ef-9ffc-45c1ad380fd0",
-            "publishedAt": "2024-12-31T04:27:00Z",
-            "content": "The Detroit Lions probably didnt have to play their starters on Monday night, but did, and the blueprint for the rest of their season became clearer.\r\nThe Lions can score a lot of points. And they wi… [+9409 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "SCOTT LEHTONEN, Investor's Business Daily",
-            "title": "Dow Jones Futures: Nvidia, S&P 500 Below Key Levels After Stock Market Sell-Off - Investor's Business Daily",
-            "description": "The Magnificent Seven stocks, excluding Nvidia, logged sharp losses Monday.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-nvda-stock-sp500/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/11/Stock-digitalbearbull-01a-adobe.jpg",
-            "publishedAt": "2024-12-31T02:43:00Z",
-            "content": "Dow Jones futures, along with S&amp;P 500 futures and Nasdaq 100 futures, were slightly lower ahead of Tuesday's open following Monday's stock market sell-off.\r\nNvidia stock reversed higher Monday, s… [+4077 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "South Korean court issues arrest warrant for Yoon over martial law decree - Al Jazeera English",
-            "description": "Court’s issuance of warrant marks first time South Korean authorities have sought to detain a sitting president.",
-            "url": "https://www.aljazeera.com/news/2024/12/31/south-korean-court-issues-arrest-warrant-for-yoon-over-martial-law-decree",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24347134143212-1-1735523082_d8e2cd-1735523502.jpg?resize=1200%2C630&quality=80",
-            "publishedAt": "2024-12-31T01:42:03Z",
-            "content": "A South Korean court has issued an arrest warrant for impeached President Yoon Suk-yeol over his short-lived declaration of martial law in a historic first.\r\nSeoul Western District Court on Tuesday a… [+2944 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2025 NFL Draft order: Patriots control own destiny for No. 1 pick; Raiders now eighth after two straight wins - CBS Sports",
-            "description": "A look at the current draft order",
-            "url": "https://www.cbssports.com/nfl/draft/news/2025-nfl-draft-order-patriots-control-own-destiny-for-no-1-pick-49ers-on-brink-of-top-10-after-lions-loss/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/31/aa602304-57ad-4ca4-a373-bf62ce545f93/thumbnail/1200x675/652dd81fcd41cb7e45253974f29d3d3b/drake-maye.jpg",
-            "publishedAt": "2024-12-31T00:51:00Z",
-            "content": "There was some major shakeup at the top of the 2025 NFL Draft order in Week 17. The New York Giants, who controlled their own destiny to secure the No. 1 pick, put up 45 points to upset the Indianapo… [+5861 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WWLTV.com"
-            },
-            "author": "Harry Howard / WWL Louisiana",
-            "title": "Two-story building partially collapses on Magazine Street - WWLTV.com",
-            "description": "New Orleans Fire Department says the building appears to be vacant, and no injuries were reported.",
-            "url": "https://www.wwltv.com/article/news/local/orleans/building-collapse-magazine-street-new-orleans/289-13f08ab8-573e-4749-a1ae-9bd950da7fae",
-            "urlToImage": "https://media.wwltv.com/assets/WWL/images/caa1ac88-3a86-4947-8589-6e23b966b45a/20241231T000338/caa1ac88-3a86-4947-8589-6e23b966b45a_1140x641.jpg",
-            "publishedAt": "2024-12-31T00:45:00Z",
-            "content": "NEW ORLEANS Emergency crews are responding to a building collapse near the intersection of Magazine and Felicity Streets. The extent of the damage and any potential injuries remain unknown at this ti… [+1621 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Matt Egan",
-            "title": "‘Major incident’: China-backed hackers breached US Treasury workstations - CNN",
-            "description": "The US Treasury Department notified lawmakers on Monday that a China state-sponsored actor infiltrated Treasury workstations in what officials are describing as a “major incident.”",
-            "url": "https://www.cnn.com/2024/12/30/investing/china-hackers-treasury-workstations/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231018082510-u-s-department-of-treasury-building-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-31T00:34:00Z",
-            "content": "The US Treasury Department notified lawmakers on Monday that a China state-sponsored actor infiltrated Treasury workstations in what officials are describing as a major incident.\r\nIn a letter reviewe… [+3319 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": null,
-            "title": "New York prison where man died after being beaten by guards will get a new leader - The Associated Press",
-            "description": "A New York prison where a man was beaten by correctional officers while handcuffed then died this month will get a new superintendent. Gov. Kathy Hochul made the announcement Monday after visiting the Marcy Correctional Facility. Body camera video had been re…",
-            "url": "https://apnews.com/article/new-york-prison-death-new-superintendent-f975247f9c606755e7fab0026f60ae30",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7bbefa8/2147483647/strip/true/crop/3000x1688+0+7/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F6a%2F7c37c791c4aba316d9adc1ab4032%2F969ddc043b6c4066ad40026dc21a6d96",
-            "publishedAt": "2024-12-31T00:02:00Z",
-            "content": "MARCY, N.Y. (AP) A New York prison where an man was beaten by correctional officers and then died will get a new superintendent, Gov. Kathy Hochul announced Monday after visiting the facility.\r\nBody … [+2736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Carly Thomas",
-            "title": "Kate Beckinsale Details Years of On-Set Harassment: “Complaining About Abuse Should Not Beget More Abuse” - Hollywood Reporter",
-            "description": "In an Instagram video, the actress recalled being physically harmed by a male co-star while filming a fight scene, a publicist forcing her to do a photoshoot “the day after I had a miscarriage\" and being \"felt up\" by a crewmember at age 18.",
-            "url": "http://www.hollywoodreporter.com/news/general-news/kate-beckinsale-details-on-set-harassment-abuse-1236095984/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/Kate-Beckinsale-getty-H-2024.png?w=1296&h=730&crop=1",
-            "publishedAt": "2024-12-31T00:00:00Z",
-            "content": "Kate Beckinsale is detailing years of harassment and abuse she’s suffered on various sets throughout her acting career.\r\nIn an Instagram video uploaded to her account Sunday, the actress said speakin… [+4681 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Michelle Shen, Nikki  Carvajal",
-            "title": "What we know about funeral plans for former President Jimmy Carter - CNN",
-            "description": "The official state funeral in Washington, DC for former President Jimmy Carter will be held on January 9, the White House confirmed Monday.",
-            "url": "https://www.cnn.com/2024/12/30/politics/jimmy-carter-funeral-plans/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-h-15213289.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-30T23:50:00Z",
-            "content": "The official state funeral in Washington, DC for former President Jimmy Carter will be held on January 9, the White House confirmed Monday.\r\nPresident Joe Biden declared January 9 as a National Day o… [+5110 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hira Humayun",
-            "title": "State of emergency declared in Trinidad and Tobago amid exceptionally deadly year - CNN",
-            "description": "Trinidad and Tobago has declared a state of emergency after a spate of killings over the weekend added to what was already an exceptionally deadly year for the Caribbean nation.",
-            "url": "https://www.cnn.com/2024/12/30/americas/state-of-emergency-trinidad-and-tobago-intl-latam/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-12-30t185023z-30645595-rc2mzbatjx79-rtrmadp-3-trinidad-emergency.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-30T22:48:00Z",
-            "content": "Trinidad and Tobago has declared a state of emergency after a spate of killings over the weekend added to what was already an exceptionally deadly year for the Caribbean nation.\r\nUnder emergency powe… [+3000 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Perry Stein, Shayna Jacobs",
-            "title": "Trump loses appeal in $5 million E. Jean Carroll defamation, sexual abuse case - The Washington Post",
-            "description": "The ruling by federal judges said Donald Trump did not demonstrate that the district court “erred in any of the challenged rulings.”",
-            "url": "https://www.washingtonpost.com/national-security/2024/12/30/trump-appeal-e-jean-carroll-defamation-sexual-abuse/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TFVZMSIB7W7R5Q3JYMM2SGFFM_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-12-30T22:44:08Z",
-            "content": "A federal appeals court Monday upheld a $5 million New York civil trial jury verdict that found Donald Trump liable for sexually abusing and defaming writer E. Jean Carroll.\r\nThe ruling by a three-ju… [+2977 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Auzinea Bacon",
-            "title": "Walmart’s version of the Hermès Birkin has taken over the internet - CNN",
-            "description": "Budget-conscious buyers looking for luxury alternatives have flocked to Walmart’s Birkin bag look-alike, nicknamed the “Wirkin.”",
-            "url": "https://www.cnn.com/2024/12/30/business/wirkin-walmart-hermes-bag/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/walmart-kamugo-handbag.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-12-30T22:40:00Z",
-            "content": "Budget-conscious buyers looking for luxury alternatives have flockedto Walmarts Birkin bag look-alike, nicknamed the Wirkin.\r\nThe leather handbag available on Walmarts website is a more affordable al… [+5514 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sabrina Malhi",
-            "title": "Norovirus: What to know about rising outbreaks of the gastrointestinal ailment - The Washington Post",
-            "description": "Norovirus is highly contagious and causes vomiting and diarrhea. But, in the overwhelming majority of cases, people recover with no lasting consequences.",
-            "url": "https://www.washingtonpost.com/health/2024/12/30/why-are-norovirus-cases-rising/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FBFUBU6RHOJH4GWU5VADYNLFAM.jpg&w=1440",
-            "publishedAt": "2024-12-30T22:33:31Z",
-            "content": "Cases of the illness known as norovirus which induces miserable bouts of vomiting and diarrhea are surging across the United States, according to the Centers for Disease Control and Prevention. Ninet… [+1296 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "THE ASSOCIATED PRESS",
-            "title": "FBI issues warning to leagues about organized crime groups targeting pro athletes - The Associated Press",
-            "description": "The FBI is warning sports leagues about crime organizations targeting professional athletes. This comes following a string of burglaries at the homes of prominent NFL and NBA players. ABC News obtained an FBI report outlining how homes are targeted for burgla…",
-            "url": "https://apnews.com/article/fbi-athlete-burglaries-1f1fa84bcab6ba49cc127949c8688816",
-            "urlToImage": "https://dims.apnews.com/dims4/default/75955a2/2147483647/strip/true/crop/3494x1965+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F03%2Faebfe60f4e8144f71e285a826b9a%2Fc1d124a0393a4a2a9df1384e24e7aeaf",
-            "publishedAt": "2024-12-30T22:12:00Z",
-            "content": "The FBI is warning sports leagues about crime organizations targeting professional athletes following a string of burglaries at the homes of prominent NFL and NBA players.\r\nThe athletes homes are tar… [+1788 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": "Brooke Masters",
-            "title": "BlackRock and FDIC on course for early 2025 clash over bank stakes - Financial Times",
-            "description": "US watchdog is seeking greater scrutiny over asset management giant’s vast holdings in lenders",
-            "url": "https://www.ft.com/content/1d559e21-66b6-4a50-8177-6b0daefaf7a1",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa8e2a92f-04f4-4d0f-8dab-fb6a2a73f9fc.jpg?source=next-barrier-page",
-            "publishedAt": "2024-12-30T22:10:52Z",
-            "content": "Try unlimited access\r\nOnly $1 for 4 weeks\r\nThen $75 per month.\r\nComplete digital access to quality FT journalism on any device. \r\nCancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Truthaboutpetfood.com"
-            },
-            "author": "Susan Thixton",
-            "title": "Ending 2024 with the WORST Pet Food Regulatory Failure - Truth about Pet Food",
-            "description": "Oregon Department of Agriculture breaks all rules causing fear for pet food consumers.",
-            "url": "https://truthaboutpetfood.com/ending-2024-with-the-worst-pet-food-regulatory-failure/",
-            "urlToImage": "https://i0.wp.com/truthaboutpetfood.com/wp-content/uploads/2024/12/stencil.post277.jpg?resize=1000%2C500&ssl=1",
-            "publishedAt": "2024-12-30T22:07:30Z",
-            "content": "Oregon Department of Agriculture just proved to the entire world they are a corrupt regulatory organization. How? By violating the #1 rule in testing protocol and recall procedure.\r\nFirst…my sincere … [+3200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Jason P. Frank",
-            "title": "Jason Momoa Gets Recast in the DC Universe - Vulture",
-            "description": "DC Studios knows what it’s got with Jason Momoa, and it’s not letting him go. Momoa is returning to the film franchise, this time as Lobo, instead of Aquaman, in the upcoming ‘Supergirl’ film.",
-            "url": "http://www.vulture.com/article/supergirl-movie-cast-release-date-trailer.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/f03/dc0/a72374085adb352de6c63d127a5f4cfe00-jason-momoa-newmovie.1x.rsocial.w1200.jpg",
-            "publishedAt": "2024-12-30T21:54:50Z",
-            "content": "Well, if youre going to reboot an entire cinematic universe, as Warner Bros. and James Gunn are currently doing to the DC Universe, you might as well just bring back your most popular actors. Jason M… [+779 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Timi Cantisano",
-            "title": "Google's new Pixel notification sync is already poised for an upgrade - Android Police",
-            "description": "This is what users were hoping for",
-            "url": "https://www.androidpolice.com/google-new-pixel-notification-sync-upgrade/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/google-pixel-9-pro-home-screen-android-15.jpg",
-            "publishedAt": "2024-12-30T21:43:00Z",
-            "content": "Summary\r\n<ul><li> Android 15 allows users to dismiss notifications across multiple devices when connected to a Wi-Fi network. </li><li> Google looks to be working on removing the Wi-Fi requirement, a… [+2714 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-12-30T21:40:02Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "WHO appeals for end to attacks on Gaza's hospitals - BBC.com",
-            "description": "It comes after two were attacked and another raided by Israeli forces in the past few days.",
-            "url": "https://www.bbc.com/news/articles/c86wd84y7jyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/661f/live/9e6e0590-c6dc-11ef-94cb-5f844ceb9e30.jpg",
-            "publishedAt": "2024-12-30T19:43:14Z",
-            "content": "The head of the World Health Organization has called for an end to attacks on hospitals in Gaza.\r\n\"Hospitals in Gaza have once again become battlegrounds and the health system is under severe threat,… [+5685 chars]"
-        }
-    ]
+    "article_id": "cb82d5baac733e4945f4d84e45937628",
+    "title": "सिडनी में नए साल का जश्न, ऋषभ पंत और शुभमन गिल के साथ क्रूज पर सेलीब्रेशन करते नजर आए साथी खिलाड़ी",
+    "link": "https://www.prabhatkhabar.com/sports/cricket/rishabh-pant-and-shubhman-gill-celebrating-2025-new-year-celebration-on-cruise-with-sarfaraj-siraj-and-harshit-rana",
+    "keywords": [
+        "cricket news",
+        "cricket",
+        "rishabh pant",
+        "mohammad siraj",
+        "sports news",
+        "shubman gill"
+    ],
+    "creator": [
+        "Anant Narayan Shukla"
+    ],
+    "video_url": null,
+    "description": "New Year Celebration: भारतीय टीम इन दिनों ऑस्ट्रेलिया में हैं. 2024 का आखिरी मैच 30 दिसंबर को समाप्त हो गया. इसके बाद टीम इंडिया के खिलाड़ी 2025 के न्यू ईयर सेलीब्रेशन के लिए सिडनी पहुंच गए. इसी मौके पर ऋषभ पंत और शुभमन गिल के साथ अन्य खिलाड़ी क्रूज पर सेलीब्रेट करते नजर आए. The post सिडनी में नए साल का जश्न, ऋषभ पंत और शुभमन गिल के साथ क्रूज पर सेलीब्रेशन करते नजर आए साथी खिलाड़ी appeared first on Prabhat Khabar.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2025-01-01 02:12:45",
+    "pubDateTZ": "UTC",
+    "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/01/101-27.jpg",
+    "source_id": "prabhatkhabar",
+    "source_priority": 343253,
+    "source_name": "Prabhat Khabar",
+    "source_url": "https://www.prabhatkhabar.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+    "language": "hindi",
+    "country": [
+        "india"
+    ],
+    "category": [
+        "sports"
+    ],
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "duplicate": false
 }

@@ -12,7 +12,7 @@ export default class App extends Component {
   };
   setProgress = (progress) => {
     this.setState({ progress });
-    console.log(process.env.REACT_APP_NEWS_API_KEY)
+    
   };
   render() {
     return (
